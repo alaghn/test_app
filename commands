@@ -1,0 +1,38 @@
+    1  pwd
+    2  ls
+    3  mkdir test_app
+    4  ls
+    5  cd test_app
+    6  pwd
+    7  clear
+    8  mkdir f1
+    9  mkdir f2 f3 f4 f5
+   10  rmdir f2
+   11  rmdir f4 f3 f5
+   12    cd f1
+   13  cd f1
+   14  cd ..
+   15  rm -r f1
+   16  rmdir test_app
+   17  touch f1.txt
+   18  touch f2.sql f3.py f4.txt
+   19  cat f4.txt
+   20  cat f4
+   21  cat f4.txt
+   22  nano f3.py
+   23  nano f3.py
+   24  cat f3.py
+   25  mkdir f1
+   26  cd f1
+   27  mkdir f2
+   28  cd f2
+   29  cd ..
+   30  ls
+   31  cd ..
+   32  ls
+   33  rmdir f1
+   34  nano f1.txt
+   35  cat f1.txt
+   36  ls
+   37  cd test_app
+   38  history >> commands
